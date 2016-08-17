@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="16"
+    density="hdpi"
+    format="7"
+    timestamp="30741460678635"
+    token="7766253601818014423" >
+
+    <task
+        name="javac"
+        duration="129" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="33" />
+    <task
+        name="verifier"
+        duration="13" />
+
+    <artifact
+        location="D:\myDocument\myDemo\BottomDialogDemo\Maoboli\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="30741460678635" >
+        <artifact
+            location="D:\myDocument\myDemo\BottomDialogDemo\Maoboli\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

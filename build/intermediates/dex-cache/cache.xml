@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\myDocument\myDemo\BottomDialogDemo\Maoboli\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="955d3fa111982d3ebba4c63c78801d8e7d39b401">
+        <dex dex="D:\myDocument\myDemo\BottomDialogDemo\Maoboli\app\build\intermediates\pre-dexed\debug\instant-run_e0cfca89dce2d545230c54c0788e1705e3ae2fc8.jar" />
+    </item>
+    <item
+        jar="D:\myDocument\myDemo\BottomDialogDemo\Maoboli\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\myDocument\myDemo\BottomDialogDemo\Maoboli\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_2b644c59192f2d62bbf29dbdeabc71da50d54715.jar" />
+    </item>
+    <item
+        jar="D:\myDocument\myDemo\BottomDialogDemo\Maoboli\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\myDocument\myDemo\BottomDialogDemo\Maoboli\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_27419026745f22d07a60dd9c52160ed2c2b3fee9.jar" />
+    </item>
+    <item
+        jar="C:\Users\D\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\myDocument\myDemo\BottomDialogDemo\Maoboli\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_222a7538bb9403c49cd424f84d5ca18af3db511c.jar" />
+    </item>
+    <item
+        jar="D:\myDocument\myDemo\BottomDialogDemo\Maoboli\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f98d5ae16ad219dcc5d27f7f72504e0c9a0196ad">
+        <dex dex="D:\myDocument\myDemo\BottomDialogDemo\Maoboli\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_6d5ba80e15265c693526fa8bb1c12f35a217b079.jar" />
+    </item>
+
+</items>
